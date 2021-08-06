@@ -1,5 +1,12 @@
 # Training Dataset
 
+## NOTE
+
+Data TBA! Expected release on 9 August 2021 (23:55 GMT+7)
+We're currently checking our data format.
+
+## Description
+
 This folder contains the data used to train our system in the paper
 
 To recall, this data captures a single colloquial transformation, therefore, the data does *not* alyways contain formal-informal pairs. Instead, it is possible to have informal-informal pair.
