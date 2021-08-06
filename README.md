@@ -1,7 +1,7 @@
 # IndoCollex
 
 ![meme](pics/meme.jpg)   
-Welcome to our repository! This repository hosts the data on "[**IndoCollex: A Testbed for Morphological Transformation of Indonesian Word Colloquialism](https://aclanthology.org/2021.findings-acl.280.pdf)"** Research Paper published on ACL-IJCNLP 2021. We also provide the guideline on how we annotate the data.
+Welcome to our repository! This repository hosts the data on **"[IndoCollex: A Testbed for Morphological Transformation of Indonesian Word Colloquialism](https://aclanthology.org/2021.findings-acl.280.pdf)"** Research Paper published on ACL-IJCNLP 2021. We also provide the guideline on how we annotate the data.
 
 ## Repository Structure and Description
 
@@ -10,6 +10,7 @@ Welcome to our repository! This repository hosts the data on "[**IndoCollex: A T
 |   ├───full.csv
 │   ├───formal_to_informal
 │   └───informal_to_formal
+├───dict
 └───guideline
 ```
 
@@ -17,6 +18,7 @@ Welcome to our repository! This repository hosts the data on "[**IndoCollex: A T
 2. `data/informal_to_formal` : Data to train our informal to formal system in the paper (contains train, dev, test)
 3. `data/full.csv` : Full data that will be divided into `formal_to_informal` and `informal_to_formal` data. Some labels are also excluded.
 3. `guideline`: PDF guideline how we annotate the data
+5. `dict`: You can find formal-informal phrase level Indonesian dictionary (i.e. kamus alay), in tsv format.
 
 ## Indonesian Colloquial Transformation
 

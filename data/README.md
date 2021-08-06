@@ -2,7 +2,8 @@
 
 ## NOTE
 
-Data TBA! Expected release on 9 August 2021 (23:55 GMT+7)
+Data TBA!  
+Expected release on **9 August 2021 (23:55 GMT+7)**  
 We're currently checking our data format.
 
 ## Description
