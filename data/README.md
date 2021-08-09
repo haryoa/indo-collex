@@ -1,11 +1,5 @@
 # Training Dataset
 
-## NOTE
-
-Data TBA!  
-Expected release on **9 August 2021 (23:55 GMT+7)**  
-We're currently checking our data format.
-
 ## Description
 
 This folder contains the data used to train our system in the paper
@@ -22,8 +16,9 @@ In such case, we have to apply 2 transformations as follow:
 
 Therefore, you will also find a pair of `teman2; temen2; sound-alter` in the dataset, despite both being informal words.
 
-If you are looking for end-to-end formal-informal Indonesian dictionary, you can access here: TBA.
+If you are looking for end-to-end formal-informal Indonesian dictionary, you can access the `dict` folder.
 
+The provided data has been slightly updated. Thus, the data has different statistics than the one from the paper. 
 
 ## Data CSV file format
 
