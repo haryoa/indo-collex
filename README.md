@@ -9,8 +9,8 @@ Welcome to our repository! This repository hosts the data on **"[IndoCollex: A T
 ├───data
 |   ├───full.csv
 │   ├───formal_to_informal
-│   ├───dict
 │   └───informal_to_formal
+├───dict
 └───guideline
 ```
 
